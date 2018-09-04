@@ -1,0 +1,4 @@
+C:\Users\s8aisa00\Videos\OmaSovellus\Muuttuja\Pintaala\bin\Debug\Pintaala.exe
+C:\Users\s8aisa00\Videos\OmaSovellus\Muuttuja\Pintaala\bin\Debug\Pintaala.pdb
+C:\Users\s8aisa00\Videos\OmaSovellus\Muuttuja\Pintaala\obj\x86\Debug\Pintaala.exe
+C:\Users\s8aisa00\Videos\OmaSovellus\Muuttuja\Pintaala\obj\x86\Debug\Pintaala.pdb

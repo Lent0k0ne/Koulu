@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merkkit1", "Merkkit1\Merkkit1.csproj", "{FEC4C2FF-6B0D-45AE-810E-685CE7B99FBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "READ", "READ\READ.csproj", "{88AF1F2A-5545-40A3-8B79-C2621656C967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laskut", "Laskut\Laskut.csproj", "{288DFEDC-0E86-4C25-9D1F-A62AE44F4D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vertailu", "Vertailu\Vertailu.csproj", "{303704AE-3D70-4D69-830C-38F342EA50FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{8B1A6BFD-02ED-49BE-A281-F6047D2B5E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "els-if", "els-if\els-if.csproj", "{05505637-4173-4D09-A883-7C1C9460DFAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while1", "while1\while1.csproj", "{5A8E842F-EB88-40BA-A385-FC343664E5E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pintaala", "Pintaala\Pintaala.csproj", "{CFA452BE-CE47-4C84-89F8-963BDE2A2FB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC4C2FF-6B0D-45AE-810E-685CE7B99FBB}.Debug|x86.ActiveCfg = Debug|x86
+		{FEC4C2FF-6B0D-45AE-810E-685CE7B99FBB}.Debug|x86.Build.0 = Debug|x86
+		{FEC4C2FF-6B0D-45AE-810E-685CE7B99FBB}.Release|x86.ActiveCfg = Release|x86
+		{FEC4C2FF-6B0D-45AE-810E-685CE7B99FBB}.Release|x86.Build.0 = Release|x86
+		{88AF1F2A-5545-40A3-8B79-C2621656C967}.Debug|x86.ActiveCfg = Debug|x86
+		{88AF1F2A-5545-40A3-8B79-C2621656C967}.Debug|x86.Build.0 = Debug|x86
+		{88AF1F2A-5545-40A3-8B79-C2621656C967}.Release|x86.ActiveCfg = Release|x86
+		{88AF1F2A-5545-40A3-8B79-C2621656C967}.Release|x86.Build.0 = Release|x86
+		{288DFEDC-0E86-4C25-9D1F-A62AE44F4D54}.Debug|x86.ActiveCfg = Debug|x86
+		{288DFEDC-0E86-4C25-9D1F-A62AE44F4D54}.Debug|x86.Build.0 = Debug|x86
+		{288DFEDC-0E86-4C25-9D1F-A62AE44F4D54}.Release|x86.ActiveCfg = Release|x86
+		{288DFEDC-0E86-4C25-9D1F-A62AE44F4D54}.Release|x86.Build.0 = Release|x86
+		{303704AE-3D70-4D69-830C-38F342EA50FA}.Debug|x86.ActiveCfg = Debug|x86
+		{303704AE-3D70-4D69-830C-38F342EA50FA}.Debug|x86.Build.0 = Debug|x86
+		{303704AE-3D70-4D69-830C-38F342EA50FA}.Release|x86.ActiveCfg = Release|x86
+		{303704AE-3D70-4D69-830C-38F342EA50FA}.Release|x86.Build.0 = Release|x86
+		{8B1A6BFD-02ED-49BE-A281-F6047D2B5E14}.Debug|x86.ActiveCfg = Debug|x86
+		{8B1A6BFD-02ED-49BE-A281-F6047D2B5E14}.Debug|x86.Build.0 = Debug|x86
+		{8B1A6BFD-02ED-49BE-A281-F6047D2B5E14}.Release|x86.ActiveCfg = Release|x86
+		{8B1A6BFD-02ED-49BE-A281-F6047D2B5E14}.Release|x86.Build.0 = Release|x86
+		{05505637-4173-4D09-A883-7C1C9460DFAE}.Debug|x86.ActiveCfg = Debug|x86
+		{05505637-4173-4D09-A883-7C1C9460DFAE}.Debug|x86.Build.0 = Debug|x86
+		{05505637-4173-4D09-A883-7C1C9460DFAE}.Release|x86.ActiveCfg = Release|x86
+		{05505637-4173-4D09-A883-7C1C9460DFAE}.Release|x86.Build.0 = Release|x86
+		{5A8E842F-EB88-40BA-A385-FC343664E5E6}.Debug|x86.ActiveCfg = Debug|x86
+		{5A8E842F-EB88-40BA-A385-FC343664E5E6}.Debug|x86.Build.0 = Debug|x86
+		{5A8E842F-EB88-40BA-A385-FC343664E5E6}.Release|x86.ActiveCfg = Release|x86
+		{5A8E842F-EB88-40BA-A385-FC343664E5E6}.Release|x86.Build.0 = Release|x86
+		{CFA452BE-CE47-4C84-89F8-963BDE2A2FB9}.Debug|x86.ActiveCfg = Debug|x86
+		{CFA452BE-CE47-4C84-89F8-963BDE2A2FB9}.Debug|x86.Build.0 = Debug|x86
+		{CFA452BE-CE47-4C84-89F8-963BDE2A2FB9}.Release|x86.ActiveCfg = Release|x86
+		{CFA452BE-CE47-4C84-89F8-963BDE2A2FB9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
