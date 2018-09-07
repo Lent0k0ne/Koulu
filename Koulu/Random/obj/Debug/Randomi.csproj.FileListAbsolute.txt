@@ -1,0 +1,6 @@
+K:\Koulu\Random\bin\Debug\Random.exe.config
+K:\Koulu\Random\bin\Debug\Random.exe
+K:\Koulu\Random\bin\Debug\Random.pdb
+K:\Koulu\Random\obj\Debug\Randomi.csproj.CoreCompileInputs.cache
+K:\Koulu\Random\obj\Debug\Random.exe
+K:\Koulu\Random\obj\Debug\Random.pdb

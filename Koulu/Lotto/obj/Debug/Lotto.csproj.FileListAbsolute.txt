@@ -1,0 +1,6 @@
+K:\Koulu\Lotto\bin\Debug\Lotto.exe.config
+K:\Koulu\Lotto\bin\Debug\Lotto.exe
+K:\Koulu\Lotto\bin\Debug\Lotto.pdb
+K:\Koulu\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+K:\Koulu\Lotto\obj\Debug\Lotto.exe
+K:\Koulu\Lotto\obj\Debug\Lotto.pdb

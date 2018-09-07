@@ -1,0 +1,7 @@
+K:\Koulu\Swith\bin\Debug\Swith.exe.config
+K:\Koulu\Swith\bin\Debug\Swith.exe
+K:\Koulu\Swith\bin\Debug\Swith.pdb
+K:\Koulu\Swith\obj\Debug\Swith.csprojResolveAssemblyReference.cache
+K:\Koulu\Swith\obj\Debug\Swith.csproj.CoreCompileInputs.cache
+K:\Koulu\Swith\obj\Debug\Swith.exe
+K:\Koulu\Swith\obj\Debug\Swith.pdb

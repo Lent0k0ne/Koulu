@@ -1,0 +1,6 @@
+K:\Koulu\swith2\bin\Debug\swith2.exe.config
+K:\Koulu\swith2\bin\Debug\swith2.exe
+K:\Koulu\swith2\bin\Debug\swith2.pdb
+K:\Koulu\swith2\obj\Debug\swith2.csproj.CoreCompileInputs.cache
+K:\Koulu\swith2\obj\Debug\swith2.exe
+K:\Koulu\swith2\obj\Debug\swith2.pdb

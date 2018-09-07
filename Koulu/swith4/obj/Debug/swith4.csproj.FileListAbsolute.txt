@@ -1,0 +1,6 @@
+K:\Koulu\swith4\bin\Debug\swith4.exe.config
+K:\Koulu\swith4\bin\Debug\swith4.exe
+K:\Koulu\swith4\bin\Debug\swith4.pdb
+K:\Koulu\swith4\obj\Debug\swith4.csproj.CoreCompileInputs.cache
+K:\Koulu\swith4\obj\Debug\swith4.exe
+K:\Koulu\swith4\obj\Debug\swith4.pdb
