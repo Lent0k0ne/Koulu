@@ -1,0 +1,9 @@
+K:\Ti1014v\Taulukkoharjoituksia\Harjoitus1\bin\Debug\Harjoitus1.exe
+K:\Ti1014v\Taulukkoharjoituksia\Harjoitus1\bin\Debug\Harjoitus1.pdb
+K:\Ti1014v\Taulukkoharjoituksia\Harjoitus1\obj\x86\Debug\Harjoitus1.exe
+K:\Ti1014v\Taulukkoharjoituksia\Harjoitus1\obj\x86\Debug\Harjoitus1.pdb
+K:\Taulukkoharjoituksia\Harjoitus1\bin\Debug\Harjoitus1.exe
+K:\Taulukkoharjoituksia\Harjoitus1\bin\Debug\Harjoitus1.pdb
+K:\Taulukkoharjoituksia\Harjoitus1\obj\x86\Debug\Harjoitus1.csproj.CoreCompileInputs.cache
+K:\Taulukkoharjoituksia\Harjoitus1\obj\x86\Debug\Harjoitus1.exe
+K:\Taulukkoharjoituksia\Harjoitus1\obj\x86\Debug\Harjoitus1.pdb

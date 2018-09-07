@@ -1,0 +1,4 @@
+K:\Ti1014v\Taulukkoharjoituksia\Teht1\bin\Debug\Teht1.exe
+K:\Ti1014v\Taulukkoharjoituksia\Teht1\bin\Debug\Teht1.pdb
+K:\Ti1014v\Taulukkoharjoituksia\Teht1\obj\x86\Debug\Teht1.exe
+K:\Ti1014v\Taulukkoharjoituksia\Teht1\obj\x86\Debug\Teht1.pdb

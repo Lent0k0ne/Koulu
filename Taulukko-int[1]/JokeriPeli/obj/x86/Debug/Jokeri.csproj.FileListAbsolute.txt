@@ -1,0 +1,9 @@
+K:\Ti1014v\Taulukkoharjoituksia\Jokeri\bin\Debug\Jokeri.exe
+K:\Ti1014v\Taulukkoharjoituksia\Jokeri\bin\Debug\Jokeri.pdb
+K:\Ti1014v\Taulukkoharjoituksia\Jokeri\obj\x86\Debug\Jokeri.exe
+K:\Ti1014v\Taulukkoharjoituksia\Jokeri\obj\x86\Debug\Jokeri.pdb
+K:\Taulukkoharjoituksia\Jokeri\bin\Debug\Jokeri.exe
+K:\Taulukkoharjoituksia\Jokeri\bin\Debug\Jokeri.pdb
+K:\Taulukkoharjoituksia\Jokeri\obj\x86\Debug\Jokeri.csproj.CoreCompileInputs.cache
+K:\Taulukkoharjoituksia\Jokeri\obj\x86\Debug\Jokeri.exe
+K:\Taulukkoharjoituksia\Jokeri\obj\x86\Debug\Jokeri.pdb

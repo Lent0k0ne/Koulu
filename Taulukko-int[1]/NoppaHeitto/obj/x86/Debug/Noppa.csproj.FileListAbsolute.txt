@@ -1,0 +1,9 @@
+K:\Ti1014v\Taulukkoharjoituksia\Noppa\bin\Debug\Noppa.exe
+K:\Ti1014v\Taulukkoharjoituksia\Noppa\bin\Debug\Noppa.pdb
+K:\Ti1014v\Taulukkoharjoituksia\Noppa\obj\x86\Debug\Noppa.exe
+K:\Ti1014v\Taulukkoharjoituksia\Noppa\obj\x86\Debug\Noppa.pdb
+K:\Taulukkoharjoituksia\Noppa\bin\Debug\Noppa.exe
+K:\Taulukkoharjoituksia\Noppa\bin\Debug\Noppa.pdb
+K:\Taulukkoharjoituksia\Noppa\obj\x86\Debug\Noppa.csproj.CoreCompileInputs.cache
+K:\Taulukkoharjoituksia\Noppa\obj\x86\Debug\Noppa.exe
+K:\Taulukkoharjoituksia\Noppa\obj\x86\Debug\Noppa.pdb
